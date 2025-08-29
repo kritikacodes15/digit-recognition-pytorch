@@ -19,7 +19,7 @@ Built with **PyTorch**, it demonstrates the basics of deep learning — from pre
 
 ---
 
-## 🧠 Model Architecture
+
 ## 🧠 Model Architecture
 
 - **Input Layer**: 784 features (28×28 pixels)
